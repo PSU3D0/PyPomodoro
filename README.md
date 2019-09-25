@@ -1,6 +1,6 @@
 # PyPomodoro
 
-!(PyPomodoro)[https://i.imgur.com/hkJ62ft.png]
+![PyPomodoro](https://i.imgur.com/hkJ62ft.png)
 
 Setup:
 Requires Python 3.x.x
