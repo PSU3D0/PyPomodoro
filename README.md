@@ -1,10 +1,13 @@
 # PyPomodoro
 
+!(PyPomodoro)[https://i.imgur.com/hkJ62ft.png]
+
 Setup:
 Requires Python 3.x.x
 
-In program directory, run the following: pip install -r requirements.txt
+In program directory, run the following: 
+pip install -r requirements.txt
 
 Running:
 
-To run the program run PyPomodoro.py
+python PyPomodoro.py
